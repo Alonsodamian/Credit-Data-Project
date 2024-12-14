@@ -1,1 +1,1 @@
-# Credit-Data-Project
+# a590_customer_segmentation
